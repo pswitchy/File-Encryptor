@@ -1,4 +1,3 @@
-```markdown
 # File Encryptor
 
 This Rust project provides a command-line tool to encrypt and decrypt files using AES-256-GCM with best practices for key derivation and authenticated encryption.
