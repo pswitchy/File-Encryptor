@@ -49,3 +49,7 @@ cargo run -- decrypt -i output.enc -o "DecryptedOutputFile" -p "YourStrongPasswo
 
 * **Password Strength:** The security of your encrypted files depends entirely on the strength of your password. Use a long, complex password with a mix of uppercase and lowercase letters, numbers, and symbols.  Consider using a password manager.
 * **Key Management:** *Never* store the encryption key directly with the data.
+
+### Results (Images)
+
+![Screenshot 2025-01-17 165113](https://github.com/user-attachments/assets/9b33cf3d-e8bf-4366-94b1-c56d680c1cb7)
